@@ -2,7 +2,6 @@
 
 This project is a real-time object detection web application built using YOLO and OpenCV, integrated with Flask. It allows users to perform object detection in real-time as well as from stored video files.
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -17,6 +16,8 @@ This project is a real-time object detection web application built using YOLO an
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Output](#output)
+- [Contributors](#contributors)
 
 ## Introduction
 
@@ -105,9 +106,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![image 2](https://github.com/user-attachments/assets/c2aa86dd-ef97-4934-bd97-19798d33c081)
 
-
-
 ![image 3](https://github.com/user-attachments/assets/23c22bb3-f247-47fe-a95c-b6dcfb58c28c)
 
 ![image 4](https://github.com/user-attachments/assets/0a03f9cc-fd5f-4764-8b6c-b97c28ee90ae)
 
+## Contributors
+
+We'd like to thank the following people for their contributions to this project:
+
+- **[Harshada708](https://github.com/Harshada708)**
+- **[prachi240103](https://github.com/prachi240103)**
+- **[dnyanugarule](https://github.com/dnyanugarule)**
